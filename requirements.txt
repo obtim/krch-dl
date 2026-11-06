@@ -1,0 +1,3 @@
+# stdlib-only; ffmpeg нужен отдельно.
+# Необязательно: ffmpeg через pip-пакет (скрипт подхватит сам):
+imageio-ffmpeg>=0.5
